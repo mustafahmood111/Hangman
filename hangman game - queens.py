@@ -1,6 +1,6 @@
 # **********************************************************
 # *    Program: Hangman                                    *
-# *    Date: January 25, 2022                              *
+# *    Date: August 14 , 2022                              *
 # *    Name: Mustafa Hmood                                 *
 # *    Description: Hangman made with Tkinter.             *
 # **********************************************************
